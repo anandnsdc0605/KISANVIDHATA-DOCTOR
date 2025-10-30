@@ -1,0 +1,7 @@
+{
+  "name": "Copy of KisanVidhata Plant Doctor",
+  "description": "An AI-powered tool for Indian farmers to instantly diagnose plant diseases from a photo and get actionable solutions in English and Hindi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
